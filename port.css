@@ -1,0 +1,415 @@
+@media screen and (max-width: 680px)
+{
+
+  .menu img{
+      width:80%;
+      margin:0 auto;  
+      }  
+
+.access-right {
+    width: 100% !important;
+    margin: 0 auto !important;
+    }
+
+.access-right h3{
+    text-align:center !important;
+    }
+
+.access-left img{
+    width: 100% !important;;
+    margin:0 auto !important;
+}
+ .head-back{
+     background-size:cover !important;
+     max-width:100%;
+     background-repeat:none;
+     overflow: hidden;
+
+ }
+
+ header h2{
+     font-size:50px !important;
+ }
+
+header h3{
+    font-size:25px !important;
+
+}
+
+.lists{
+width:100%;
+display: inline-block;
+}
+
+.lists li{
+    width:40% !important;
+    font-size:20px !important;
+    display:inline-block !important; 
+
+}
+
+
+.concept{
+    width:100%;
+}
+
+.concept h3{
+    font-size:13px;
+    letter-spacing:1px;
+    }
+
+.con-left{
+vertical-align: top;
+}
+
+.concept img{
+    width:50%;
+}    
+
+}
+
+@media screen and (max-width: 500px)
+{
+
+    .con-left{
+        vertical-align: top;
+        }
+   
+        header h2{
+            font-size:45px !important;
+        }
+       
+       header h3{
+           font-size:20px !important;
+       
+       }
+    
+    .access-right {
+        width: 100% !important;
+        margin: 0 auto !important;
+    }
+    
+    .access-right h3{
+        text-align:center !important;
+    }
+    
+    .access-left img{
+        width: 100% !important;;
+        margin:0 auto !important;
+    }
+
+    .head-back{
+        background-size:cover !important;
+        max-width:100%;
+        height:auto;
+        background-repeat:none;
+        overflow: hidden;
+    }
+    
+   
+    .lists{
+        width:100%;
+        display: inline-block;
+        }
+
+
+        .lists li{
+            width:40% !important;
+            font-size:18px !important;
+            display:inline-block !important;
+
+        }
+         
+        .menu img{
+            width:80%;
+            margin:0 auto;
+
+        }  
+        
+        .con-left h3{
+            font-size:13px;
+            vertical-align:top !important;
+
+        }
+        
+       
+   .concept{
+       width:100%;
+   }
+        
+        .concept img{
+            width:50%;
+        }  
+        .concept h3{
+            font-size:11px;
+            margin-bottom:8px;
+
+            }
+
+        }
+
+
+
+
+
+*{
+    list-style:none;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.head-back{
+background-image:url(./img-file/PAKS_BISTROtennai_TP_V.jpg);
+size:cover;
+height:60%;
+width:100%;
+background-repeat:none;
+background-size:100%;
+}
+
+
+.head-left{
+    float:left;
+    margin-top:15px;
+    margin-left:15px;
+    opacity:0.9;
+}
+
+.head-left img{
+    width:100px;
+}
+
+.head-right{
+   opacity:1;
+   position:fixed;
+   float:right;
+   top:7px;
+   right:3px;
+}
+
+.head-right:hover{
+    opacity:0.3;
+}
+
+.image{
+    border-radius:120px;
+    width:30px;
+}
+
+.head-mask {
+    height:60%;
+    background: rgba(142, 163, 118, 0.6);
+  }
+
+
+header{
+   text-align:center;
+   color:white;
+   padding:180px 0 200px 0;
+   height:60%;
+   width:100%;
+}
+
+header h2{
+    font-size:60px;  
+}
+
+header h3{
+    font-size:30px;
+}
+
+.lists{
+    display:inline;
+    margin:0 auto;
+width:100%;
+margin-left: auto;
+margin-right: auto;
+width: 8em;
+  text-align:center;
+}
+
+
+.fa{
+    margin-right:10px;
+}
+
+.lists li{
+    font-size:30px;
+    display: inline-block;
+    padding:18px;
+    opacity:0.6;
+    width:20%;
+    height:auto;
+   }
+
+.lists li:hover{
+opacity:1;
+}
+
+.lists a{
+    text-decoration:none;
+    color:gray;
+}
+
+.list{
+ text-align:center;
+ font-size:20px;   
+ margin-top:5vh;
+}
+
+.list h2{
+    padding-bottom:10vh;
+}
+
+.concept{
+    width:100%;
+    height:100%;
+    overflow: hidden;
+
+}
+
+
+
+.concept img{
+    float:right;
+    width:50%;
+    opacity:0.8;
+}
+
+.con-left{
+    padding-top:80px;
+    width:50%;
+    float:left;
+    font-size:auto;
+    text-align:center;
+}
+
+.wid{
+    width:60%;
+    height:400px;
+    margin:30px;
+}
+
+.menu{
+    width:100%;
+    height:100%;
+}
+
+.menu h2{
+margin-bottom:-30px;
+margin-top:100px;
+}
+
+
+.hei{
+    width:20%;
+    height:400px;
+    margin:30px;
+
+}
+
+.gmap {
+    height: 0;
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    }
+    .gmap iframe {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    }
+
+.access{
+width:100%;
+display:inline-block;
+}
+
+.access h2{
+    margin-top:120px;
+}
+
+.schedule h2{
+    margin-top: 120px;
+    margin-bottom:-30px;
+}
+
+
+.access p{
+margin-bottom:50px;
+}
+.access img{
+float:left;
+width:60%;
+}
+
+.access-right{
+text-align:center;
+padding-top:40px;
+width:30%;
+float:right;
+font-size:auto;
+margin-right:4vw;
+}
+
+
+
+.map p{
+    text-align:center;
+    padding:50px;
+    margin:300px;
+}
+
+.map h3{
+text-align:center;
+}
+
+.foot-right{
+    margin-left:80px;
+    padding:23px 0 0 0;
+    
+}
+
+footer{
+    background-color:gray;
+    height:200px;
+    margin-top:60px;
+}
+
+footer li{
+    padding:6px;
+}
+
+footer li:hover{
+    opacity:0.8;
+}
+
+footer fa{
+    color:white;
+}
+
+footer a{
+    text-decoration:none;
+    color:white;
+}
+
+
+
+.foot-left{
+float:left;
+    margin-top:3vh;
+    margin-left:5px;
+    opacity:0.9;
+}
+
+.foot-left img{
+    width:100px;
+    margin-top:5vh;
+}
+
+
+
+
+
